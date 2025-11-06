@@ -1,0 +1,3 @@
+SELECT *
+FROM alumnos
+WHERE promedio > 8.5;
